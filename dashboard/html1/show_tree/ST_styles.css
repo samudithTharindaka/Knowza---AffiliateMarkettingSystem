@@ -1,0 +1,23 @@
+.people{
+    padding: 5%;
+    padding-left: 10%;
+}
+.left-top{
+    background-color: yellow;
+    text-align: center;
+    padding: 2%;
+}
+.right-top{
+    background-color: #d2d200;
+    text-align: center;
+    padding: 2%;
+}
+.left-content{
+    background-color: lightyellow;
+    text-align: center;
+    padding: 1%;
+}.right-content{
+     background-color: #e3e3c2;
+     text-align: center;
+     padding: 1%;
+ }
